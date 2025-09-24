@@ -43,7 +43,7 @@ int game(char you, char computer)
 }
 
 // Driver Code
-void rockPaper()
+int main()
 {
     // Stores the random number
     int n;
